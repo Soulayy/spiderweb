@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "spidercoin";
+    src: url("./../../font/CCWildWordsRoman.ttf") format("truetype");
+}
+
+p {
+    font-family: "spidercoin";
+}
+
+h1 {
+    font-family: "spidercoin";
+}
+
+.selectP {
+    font-family: "spidercoin";
+}
+
+
+
+.selectP:hover {
+    border-bottom: 3px solid white;
+}
+
+
+
+.testback {
+    background-image: url(./../../assets/destination/orionzeapgif.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    
+}
+
+/* .roue:hover{
+    scale: 1.1;
+    transition: 2s;
+} */
+
+#background-video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: 100%;
+    z-index: -1000;
+}

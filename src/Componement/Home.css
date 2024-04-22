@@ -1,0 +1,23 @@
+.myhome {
+    background-image: url(./../assets/home/background-home-desktop.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    
+}
+
+.homecontainer, .hometext{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+  
+  @keyframes rotate {
+    0% {
+      background-position: 0 0;
+    }
+  
+    100% {
+      background-position: 530px 0;
+    }
+  }

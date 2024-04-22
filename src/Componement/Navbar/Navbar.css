@@ -1,0 +1,5 @@
+.NavX:hover {
+    border-bottom: 4px solid #c5b71f;
+    cursor: pointer;
+    color: #c5b71f;
+}
